@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"ayu",
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"Coffee Color Scheme",
+		"Color Highlighter",
+		"ColorPicker",
+		"CTags",
+		"Emmet",
+		"Failcoder Color Scheme",
+		"Git",
+		"GitGutter",
+		"iLorem",
+		"Materialize",
+		"Package Control",
+		"PlainTasks",
+		"Ruby Slim",
+		"Sass",
+		"SassBeautify",
+		"Sassy Comments",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}
